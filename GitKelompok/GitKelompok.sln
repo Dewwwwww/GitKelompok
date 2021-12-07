@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitKelompok", "GitKelompok\GitKelompok.csproj", "{4E0475BD-C5F8-40CC-81D6-9884EE10915A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0475BD-C5F8-40CC-81D6-9884EE10915A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0475BD-C5F8-40CC-81D6-9884EE10915A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0475BD-C5F8-40CC-81D6-9884EE10915A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0475BD-C5F8-40CC-81D6-9884EE10915A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB7F2D5-403F-4F32-8459-8B6D7AF21E54}
+	EndGlobalSection
+EndGlobal
