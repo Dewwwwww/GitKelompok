@@ -25,6 +25,9 @@ namespace GitKelompok
             pembagian = angka1 / angka2;
             Console.WriteLine("{0} / {1} = {2}", angka1, angka2, pembagian);
 
+            // menambahkan operasi perkalian
+            perkalian = angka1 * angka2;
+            Console.WriteLine("{0} x {1} = {2}", angka1, angka2, perkalian);
 
         }
     }
