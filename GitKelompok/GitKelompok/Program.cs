@@ -21,6 +21,11 @@ namespace GitKelompok
             perjumlahan = angka1 + angka2;
             Console.WriteLine("{0} + {1} = {2}", angka1, angka2, perjumlahan);
 
+            // menambahkan operasi pembagian
+            pembagian = angka1 / angka2;
+            Console.WriteLine("{0} / {1} = {2}", angka1, angka2, pembagian);
+
+
         }
     }
 }
