@@ -14,7 +14,7 @@ namespace GitKelompok
             Console.WriteLine("Program Aritmatika");
 
             int angka1 = 20, angka2 = 10;
-            int perjumlahan = 0, pengurangan = 0, perkalian = 0;
+            int perjumlahan = 0, pengurangan = 0, perkalian = 0, modulus = 0;
             double pembagian = 0;
 
             // menambahkan operasi penjumblahan
@@ -29,6 +29,11 @@ namespace GitKelompok
             perkalian = angka1 * angka2;
             Console.WriteLine("{0} x {1} = {2}", angka1, angka2, perkalian);
 
+            // menambahkan operasi modulus
+            modulus = angka1 % angka2;
+            Console.WriteLine("{0} % {1} = {2}", angka1, angka2, modulus);
+
+            Console.ReadKey();
         }
     }
 }
